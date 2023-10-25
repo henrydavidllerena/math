@@ -1,19 +1,6 @@
-<<<<<<< Updated upstream
-# Site Settings
-title: David Llerena
-email: taniarascia@gmail.com
-description: >
-  A guide to getting started with Jekyll.
-#baseurl: "/math"
-url: "http://henrydavidllerena.github.io"
-twitter_username: david llerena
-github_username:  taniarascia
-# Build Settings
-=======
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
->>>>>>> Stashed changes
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: You
@@ -31,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
