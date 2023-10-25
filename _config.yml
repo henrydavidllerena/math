@@ -1,19 +1,6 @@
-<<<<<<< Updated upstream
-# Site Settings
-title: David Llerena
-email: taniarascia@gmail.com
-description: >
-  A guide to getting started with Jekyll.
-#baseurl: "/math"
-url: "http://henrydavidllerena.github.io"
-twitter_username: david llerena
-github_username:  taniarascia
-# Build Settings
-=======
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
->>>>>>> Stashed changes
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: You
@@ -429,3 +416,4 @@ jsonresume:
   - languages
   - interests
   - references
+
