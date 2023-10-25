@@ -1,0 +1,18 @@
+# Site Settings
+title: David Llerena
+email: taniarascia@gmail.com
+description: >
+  A guide to getting started with Jekyll.
+baseurl: ""
+url: "http://taniarascia.github.io"
+twitter_username: david llerena
+github_username:  taniarascia
+# Build Settings
+
+sass:
+  sass_dir: _sass
+include: ['_pages']
+plugins:
+  - jekyll-seo-tag
+kramdown:
+  input: GFM
