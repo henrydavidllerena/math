@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://henrydavidllerena.github.io/sitemap.xml
+Sitemap: https://henrydavidllerena.github.io/maths/sitemap.xml
